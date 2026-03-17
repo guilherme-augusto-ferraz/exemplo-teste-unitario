@@ -1,4 +1,4 @@
-# Exemplo de Projeto para Testes Unitários
+## Exemplo de Projeto para Testes Unitários
 
 Este projeto é um exemplo para a disciplina de Qualidade de Software.
 
